@@ -17,8 +17,12 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+==========================================
+
 /*gcc myadder.c -o myadder
 ./myadder 10 20*/
+
+==========================================
 
 //fork_exec.c
 #include <stdio.h>
@@ -58,5 +62,8 @@ int main() {
     return 0;
 }
 
+==========================================
+
 /*gcc fork_exec.c -o fork_exec
 ./fork_exec*/
+
